@@ -1,6 +1,4 @@
-# awesome-javascript
-
-A curated list of awesome JavaScript frameworks, libraries and software.
+# Bulabileceğiniz Tüm JavaScript Kütüphane ve Frameworkleri
 
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 * [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
